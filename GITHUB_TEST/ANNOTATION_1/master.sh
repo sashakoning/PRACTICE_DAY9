@@ -1,6 +1,6 @@
 #! /bin/bash
 #Step_1
-#Purpose:  
+#Purpose: link to data repository
 #Written by: Sasha Koning
 #Date: Jan 18 2019
 

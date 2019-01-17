@@ -2,7 +2,7 @@
 
 *Author: Sasha Koning*
 
-*Purpose: Show how to create a project in Githun*
+*Purpose: Show how to create a project in Github*
 
 ## Annotation_1
 Write personal data to the file :thumbsup:
